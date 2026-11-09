@@ -1,0 +1,2 @@
+# AutoSellerLolz
+It sells automatically
